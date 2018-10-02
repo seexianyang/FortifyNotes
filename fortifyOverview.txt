@@ -1,0 +1,6 @@
+
+ Overview.
+ 
+ 1. WebInspect - guided scan with macros, mobile scan with wi license, 
+
+ ---> become a sensor for 2.) WebInspect Enterprise (WIE), which control the sensors for scanning and upload to WIE.
