@@ -1,10 +1,23 @@
 
  Overview.
  
- 1. WebInspect 
+ 1. WebInspect              -  Web application and Web services vulnerability scanning solution available, with constant update by fortify.
  
-  *- guided scan with macros.
-  *- Mobile scan.
-  *- x
+ WebInspect  ( WI )         - scanning website body like html/vbscript and actually attack the site..without causing harm to the website.
+ 
+  Guided Scan & Macros        - click import to save macros.
+  Web Service Scan. (SOAP) 
+  Mobile Scan.                  - manage network setting/proxy name:ip address/ port given.
+  Generate report.                  - selecting Compliance,  Vulnerability (legacy) select everything, so code is shown.
+  Compare Scan.                       - it shows the venn diagram of two project, lets say prototype 1 and protype 2 that developer create for each delivery phrase
+  False positive.               - intented error or approved as false scan error can be marked or retrive back.
+  Becoming a Sensor for WebInspect Enterprise (WIE)  -  ---> become a sensor for 2.) WebInspect Enterprise (WIE), which control the sensors for scanning and upload to WIE.
+  
+  
+2. Static Code Analysis  (SCA)   - 
 
- ---> become a sensor for 2.) WebInspect Enterprise (WIE), which control the sensors for scanning and upload to WIE.
+  Scan Wizard / sourceanalyzer.   
+  Fortify Workbench.
+  BIRT Report.
+  False Positive.
+  Plugins for IDE & Build tools (Visual Studio, Eclipse, Jenkins, Maven)
